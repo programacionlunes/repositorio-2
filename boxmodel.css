@@ -1,0 +1,20 @@
+#rojo{
+height: 300px;    
+width: 400px;
+background-color: red;
+font-size: 32px;
+border: 10px solid orange;
+padding: 40px;
+margin: 50px;
+color:yellow
+}
+
+#azul{
+height: 200px;
+width: 300px;
+background-color: blue;
+font-size: 46px;
+border: 26px solid aquamarine;
+padding: 50px;
+margin: 70px;
+}
